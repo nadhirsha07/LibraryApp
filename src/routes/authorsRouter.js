@@ -5,22 +5,22 @@ var authors= [
 {
     name:"Leo Tolstoy",
     age:"NA",
-    Image:"05.jpg"
+    image:"05.jpg"
 },
 {
     name:"Judy Donnelly",
     age:"80",
-    Image:"06.jpg"
+    image:"06.jpg"
 },
 {
     name:"Victor Hugo",
     age:"NA",
-    Image:"07.jpg"
+    image:"07.jpg"
 },
 {
     name:"Gabrielle-Suzanne de Villeneuve",
     age:"NA",
-    Image:"08.jpg"
+    image:"08.jpg"
 },
 ];
 
